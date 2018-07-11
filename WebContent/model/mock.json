@@ -1,0 +1,75 @@
+{
+"Products" :  [
+{
+    "id" : "1",
+    "type": "Fruit",
+    "name" : "Apple",
+    "price" : 200
+    
+},
+{
+    "id" : "2",
+    "type": "Fruit",
+    "name" : "Mango",
+    "price" : 60
+    
+},
+{
+    "id" : "3",
+    "type": "Vegetable",
+    "name" : "Carrot",
+    "price" : 100
+    
+},
+{
+    "id" : "4",
+    "type": "Flower",
+    "name" : "Rose",
+    "price" : 300
+    
+},
+{
+    "id" : "5",
+    "type": "Vegetable",
+    "name" : "Beetroot",
+    "price" : 30
+    
+},
+{
+    "id" : "6",
+    "type": "Vegetable",
+    "name" : "Cucumber",
+    "price" : 60
+    
+},
+{
+    "id" : "7",
+    "type": "Flower",
+    "name" : "Lily",
+    "price" : 80
+    
+},
+{
+    "id" : "8",
+    "type": "Flower",
+    "name" : "Lotus",
+    "price" : 150
+    
+},
+{
+    "id" : "9",
+    "type": "Fruit",
+    "name" : "Banana",
+    "price" : 60
+    
+},
+{
+    "id" : "10",
+    "type": "Fruit",
+    "name" : "Grape",
+    "price" : 60
+    
+}
+ 
+]
+}
